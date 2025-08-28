@@ -1,7 +1,7 @@
 {
   "name": "tme-api-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple TME API Client written in Typescript.",
   "main": "dist/client.js",
   "dependencies": {
     "axios": "^0.18.0",
@@ -24,5 +24,7 @@
   "bugs": {
     "url": "https://github.com/piotrkochan/tme-api-client/issues"
   },
-  "homepage": "https://github.com/piotrkochan/tme-api-client#readme"
+  "homepage": "https://github.com/piotrkochan/tme-api-client#readme",
+  "types": "./dist/client.d.ts",
+  "keywords": []
 }

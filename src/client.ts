@@ -79,3 +79,5 @@ export class TmeApiClient {
     }
 }
 
+module.exports = TmeApiClient
+

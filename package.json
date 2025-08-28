@@ -4,7 +4,7 @@
   "description": "Simple TME API Client written in Typescript.",
   "main": "dist/client.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.11.0",
     "http-build-query": "^0.7.0",
     "sort-keys": "^2.0.0"
   },
